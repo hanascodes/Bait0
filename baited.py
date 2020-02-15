@@ -2,7 +2,8 @@ import os
 
 # print("Made in autumn 2019 for")
 # previously known as helloSecondWorld.py
-#successfully baited Raki-san via LinkedIn
+# successfully baited Raki-san via LinkedIn
+# I have screenshots
 # input()
 #
 # print("  ████████████████         █        ")
