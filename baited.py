@@ -1,43 +1,18 @@
 import os
+import time
 
-# print("Made in autumn 2019 for")
-# previously known as helloSecondWorld.py
-
-# input()
-#
-# print("  ████████████████         █        ")
-# print("           █               █  /     ")
-# print("           █            /  █ /      ")
-# print("██████████████████     /   █/       ")
-# print("        // █          /    █        ")
-# print("       //  █               █        ")
-# print("      //   █\\              █        ")
-# print("     //    █ \\            / \       ")
-# print("    //     █  \\          /   \      ")
-# print("   //      █            /     \     ")
-# print("  //       █        ___/       \___ ")
-
-# print("")
-#
-# input()
-#
-# os.system('cls')
+print('Hey')
+time.sleep(1)
 
 print('You\'re pretty cool')
+time.sleep(1)
 
-input()
-
-os.system('cls')
-
-input()
+os.system('clear')
+#os.system('cls') for Windows
 
 answerInput = str(input("Wanna go out sometime? y/n "))
 
-input()
-
 if answerInput == 'y':
     print("Cool. ")
-    input()
 else:
-    print("Fine. You're boring. ")
-    input()
+    print("Fine. Ko te jebe. ")
